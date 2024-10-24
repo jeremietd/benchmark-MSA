@@ -1,0 +1,16 @@
+name: MSABenchmark
+channels:
+  - conda-forge
+  - anaconda
+  - bioconda
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - clustalo
+  - mafft
+  - famsa
+  - kalign3
+  - tqdm
+  - pyfamsa

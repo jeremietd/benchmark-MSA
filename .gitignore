@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+
+extHomFam*
+mini-extHomFam*
+MSAresults*
